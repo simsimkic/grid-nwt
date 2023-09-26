@@ -9,4 +9,6 @@ Rešenja zadataka možete pronaći na sledećim linkovima:
 - [vežbe 6](https://stackblitz.com/edit/grid-nwt-23-boilerplate-bgf3r2)
 - [vežbe 7](https://stackblitz.com/edit/grid-nwt-23-boilerplate-a6wrty)
 - [vežbe 8](https://stackblitz.com/edit/grid-nwt-23-boilerplate-9xskxn)
-- [vežbe 9]()
+- [vežbe 9](https://stackblitz.com/edit/grid-nwt-23-boilerplate-b9zvym)
+- [vežbe 10](https://stackblitz.com/edit/grid-nwt-23-boilerplate-z3waf8)
+- [vežbe 11](https://stackblitz.com/edit/grid-nwt-23-boilerplate-qfxbt6)
